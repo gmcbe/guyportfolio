@@ -1,0 +1,107 @@
+body{
+  background-color:	#FAF9F6;
+  font-family: sans-serif;
+}
+
+h1 {
+padding: 4px;
+width:90%;
+border:solid black 1px;
+position:absolute;
+background-color:white;
+font-family:Verdana;
+}
+
+.title {
+  padding-left: 4%;
+  position:absolute;
+  width:40%;
+  background-color:white;
+}
+
+p {
+  font-size:13px;
+  font-family:Monaco;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+    padding:4px;
+    padding-right:10px;
+    padding-left:10px;
+    border:solid grey 1px;
+    background-color:white;
+    font-family:Monaco;
+
+}
+
+.details {
+  float:right;
+  padding-left:80%;
+  position:absolute;
+  text-decoration: none;
+  margin-left:2.4%;
+  margin-top:81px;
+
+
+}
+
+
+
+.computing{
+background-color:white;
+position:absolute;
+float:right;
+margin-left:53%;
+width:35%;
+height:46.5%;
+border:solid grey 1px;
+padding:10px;
+margin-top:240px;
+
+
+}
+
+.music {
+  border:solid grey 1px;
+  position:absolute;
+  margin-top:240px;
+  margin-right:60%;
+  padding: 20px;
+  width:35%;
+  margin-left:4%;
+  background-color:white;
+
+}
+.tracks {
+  border:solid grey 1px;
+  margin-top:750px;
+  position:absolute;
+  margin-right:60%;
+  padding: 20px;
+  margin-left:4%;
+  width:83%;
+  background-color:white;
+
+}
+
+ h3 {
+
+   margin-right: 300px;
+   font-family:Monaco;
+ }
+
+ h4 {
+
+
+   font-family:Monaco;
+ }
+
+
+
+.photo {
+  padding: 25px;
+
+}
